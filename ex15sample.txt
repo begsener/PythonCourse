@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+This is stuff I typed into a file.
+It is really cool stuff.
+=======
+This is stuff I typed into a file.
+It is really cool stuff.
+>>>>>>> c8bb34737bc484eb9350bc0efd6f8f17c3d673bd
+Lots and lots of fun to have in here

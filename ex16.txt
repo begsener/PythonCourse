@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+bir varmis
+bir yokmus
+günlerden pazartesi
+=======
+bir varmis
+bir yokmus
+günlerden pazartesi
+>>>>>>> c8bb34737bc484eb9350bc0efd6f8f17c3d673bd
